@@ -1,0 +1,19 @@
+Heal is an action.
+Shoot is an action.
+Move is an action.
+Hit is an action.
+You can heal if you have a potion or you have a healing spell.
+You can shoot if you have a bow and the enemy is in sight.
+You can hit if you are standing next to the enemy and the enemy is in sight.
+You are wounded if you are critically wounded or you are lightly wounded.
+You are not wounded if you are not critically wounded and you are not lightly wounded.
+You should not attack if you are critically wounded and you can heal.
+If you can heal then you should.
+If you are not wounded then you should not heal.
+If you can shoot then you should.
+If you should not attack then you should not shoot.
+If you are standing next to the enemy then you should not shoot.
+If the enemy is in sight and you are not standing next to the enemy then you should move.
+If you should not attack then you should not move.
+If you can hit then you should.
+If you should not attack then you should not hit.
